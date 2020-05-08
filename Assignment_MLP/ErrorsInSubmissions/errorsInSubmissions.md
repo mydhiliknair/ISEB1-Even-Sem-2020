@@ -12,7 +12,7 @@
 <img src="Chetan.png">
 <li><b>Kushan- - LATE SUBMISSION - No .py file in repo. Only .ipynb exists<b>
 <img src="Kushan.png">
-<li><b>Manjunath -  (1) Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP (2) No .ipynb file in repo <b>
+<li><b>Manjunath -  (1) Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP (2) No ".py" file in repo <b>
 <img src="Manjunath.png">
 <li><b>Manasa- - LATE SUBMISSION -(1) Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP (2) No ".py" file in repo <b>
 <img src="Manasa.png">
