@@ -10,11 +10,11 @@
 <img src="Arpitha.png">
 <li><b>Chetan- (1) Directory named "Assignment_MLP" does not exist in  the repo.  (2) No .ipynb file in repo<b>
 <img src="Chetan.png">
-<li><b>Kushan- No .py file in repo. Only .ipynb exists<b>
+<li><b>Kushan- - LATE SUBMISSION - No .py file in repo. Only .ipynb exists<b>
 <img src="Kushan.png">
 <li><b>Manjunath -  (1) Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP (2) No .ipynb file in repo <b>
 <img src="Manjunath.png">
-<li><b>Manasa- (1) Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP (2) No .ipynb file in repo <b>
+<li><b>Manasa- - LATE SUBMISSION -(1) Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP (2) No ".py" file in repo <b>
 <img src="Manasa.png">
 <li><b>Prajwal - Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP"<b>
 <img src="Prajwal.png">
@@ -30,8 +30,8 @@
 <img src="Varshini.png">
 <li><b>Vivek - - Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP" <b>
 <img src="Vivek.png">
-<li><b>Vibharvri - (1) Git URL Submitted is incorrect <b>
+<li><b>Vibharvri - LATE SUBMISSION (1) Git URL Submitted is incorrect <b>
 <img src="Vibhavri_URLError.png">
-<b>Vibharvri - (2) No ".py" file (3) ",ipynb" is called "Untitled" rename to something meaningful</b>
+<b>Vibharvri - - LATE SUBMISSION (2) No ".py" file (3) ",ipynb" is called "Untitled" rename to something meaningful</b>
 <img src="Vibharvri_RepoError.png">
 </ol>
