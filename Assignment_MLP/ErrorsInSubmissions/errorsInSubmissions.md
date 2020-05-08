@@ -33,5 +33,5 @@
 <li><b>Vibharvri - (1) Git URL Submitted is incorrect <b>
 <img src="Vibhavri_URLError.png">
 <b>Vibharvri - (2) No ".py" file (3) ",ipynb" is called "Untitled" rename to something meaningful</b>
-<img src="Vibharvri_RepoError..png">
+<img src="Vibharvri_RepoError.png">
 </ol>
