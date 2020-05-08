@@ -22,8 +22,16 @@
 <img src="Ritesh.png">
 <li><b>ShwethaT-(1) Git URL Submitted is incorrect (2) Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP (3) No ".py" instead ".py.docx" exists (4) No ".ipynb" in repo <b>
 <img src="ShwethaT.png">
-<li><b> <b>
-<img src=".png">
-<li><b> <b>
-<img src=".png">
+<li><b>Shukla - Git Repo is private <b>
+<img src="Shukla.png">
+<li><b>Sowmil - Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP" <b>
+<img src="Sowmil.png">
+<li><b> Varshini - Gave link of the Google Response form instead of Git Repo!!!<b>
+<img src="Varshini.png">
+<li><b>Vivek - - Directory named "Assignment_MLP" does not exist in  the repo. Instead repo is named "Assignment_MLP" <b>
+<img src="Vivek.png">
+<li><b>Vibharvri - (1) Git URL Submitted is incorrect <b>
+<img src="Vibhavri_URLError.png">
+<b>Vibharvri - (2) No ".py" file (3) ",ipynb" is called "Untitled" rename to something meaningful</b>
+<img src="Vibharvri_RepoError..png">
 </ol>
