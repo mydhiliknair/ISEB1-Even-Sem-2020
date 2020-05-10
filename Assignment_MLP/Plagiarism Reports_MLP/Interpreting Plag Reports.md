@@ -37,6 +37,7 @@
     <li>It is used here to explain the interpretation.It is not meant to target the submissions of any student(s)</li>
     <li> Note that the variable, function name changes, adding white spaces etc will not make you escape plagiarism!!</li>
   </ol>
+  <br>
 <li>
   <p><b>The overall GRAPH that you see, 'Plagiarism 50 Percent.png' is depicting >=50% code similarity</b></p> 
 </li>
