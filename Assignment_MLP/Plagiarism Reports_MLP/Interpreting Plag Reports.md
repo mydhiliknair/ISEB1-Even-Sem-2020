@@ -7,7 +7,7 @@
  </ul> 
  <ol>
   <li>
- <p>The Consolidated Report <b>'ConsolidatedReport_Assignment_MLP.xls' </b>that you see,is depicting >=50% code similarity</p> 
+ <p><b>The Consolidated Report 'ConsolidatedReport_Assignment_MLP.xls' that you see,is depicting >=50% code similarity</b></p> 
   </li>
   <p><b>A sample of the Consolidated Report is given below</b></p>
 <img src = "Consolidated Report Explanation.png">
