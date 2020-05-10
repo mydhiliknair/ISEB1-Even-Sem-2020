@@ -5,9 +5,10 @@
   <li>Individual Report per student saved with student name.xls</li>
   <li>Overall plagiarism similarity graph</li>
  </ul> 
- <p><b>The Consolidated Report 'ConsolidatedReport_Assignment_MLP.xls' that you see,is depicting >=50% code similarity</b></p> 
+ <p>The Consolidated Report <b>'ConsolidatedReport_Assignment_MLP.xls' </b>that you see,is depicting >=50% code similarity</p> 
   <p><b>A sample of the Consolidated Report is given below</b></p>
 <img src = "Consolidated Report Explanation.png">
+<p> The last column are URL that takes you to the source files where the similarity is colour coded and shown<p><br>
   <p><b>The overall GRAPH that you see, 'Plagiarism 50 Percent.png' is depicting >=50% code similarity</b></p> 
   <p><b>A sample of the plagiarism graph is given below</b></p>
 <img src = "PlagiarismGraphSample.png">
