@@ -1,4 +1,4 @@
-<h2><u>Graph Plagiarism Reports Explanation and NEXT STEPS</u</h2>
+<h2><u>Graph Plagiarism Reports Explanation and NEXT STEPS</u></h2>
   <p><b>The overall graph that you see, 'Plagiarism 50 Percent.png' is depicting >=50% code similarity</b></p> 
   <p><b>A sample of the plagiarism graph is given below</b></p>
 <img src = "PlagiarismGraphSample.png">
