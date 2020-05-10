@@ -22,6 +22,7 @@
     <li>We will give you folks the benifit of doubt and being subjected to a plagiarism checker</li>
   </ol>
 <p> The last column are URL that takes you to the source files where the similarity is colour coded and shown<p>
+  <br>
   <li>
     <p><b>The Code Similarity sample looks like this</b></p>
     <img src = "Code Diff Colour Coded.png">
