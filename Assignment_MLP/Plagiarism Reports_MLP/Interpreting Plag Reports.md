@@ -3,7 +3,7 @@
 <ul>
   <li>Consolidated Report 'ConsolidatedReport_Assignment_MLP.xls' having all students seperated as individual sheets</li>
   <li>Individual Report per student saved with student name.xls</li>
-  <li>Overall plagiarism similarity graph</li>
+  <li>Overall plagiarism similarity graph, 'Plagiarism 50 Percent.png'</li>
  </ul> 
  <b>PLEASE NOTE:</b>
  <ul>
