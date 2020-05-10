@@ -1,4 +1,4 @@
-<h2><u>Plagiarism Reports Explanation and NEXT STEPS</u></h2>
+<h2><u>Plagiarism Reports Explanation</u></h2>
 <b>There are THREE Reports Generated</b>
 <ul>
   <li>Consolidated Report 'ConsolidatedReport_Assignment_MLP.xls' having all students seperated as individual sheets</li>
@@ -17,6 +17,7 @@
     <li>It is used here to explain the interpretation.</li>
     <li> This means that "Student A" has 50% or more similarity index with "Student B", "Student C" etc</li>
     <li>It DOESNOT indicate "who has copied from whom"</i>
+    <li>Download your individual excel report from the folder "PlagiarismReports"</li>
     <li><b><u>PLEASE NOTE:</u></b> For this assignment WE WILL NOT Cut the <b>2marks</b> for plagiarism</li>
     <li>We will give you folks the benifit of doubt and being subjected to a plagiarism checker</li>
   </ol>
@@ -49,13 +50,4 @@
     <li><b><u>PLEASE NOTE:</u></b> For this assignment WE WILL NOT Cut the <b>2marks</b> for plagiarism</li>
     <li>We will give you folks the benifit of doubt and being subjected to a plagiarism checker</li>
   </ol>
-  <b>STEPS TO BE FOLLOWED FROM NEXT ASSIGNMENT ONWARDS</b>
-  <p>The student who is submitting the assignment has to</p>
-  <ol>
-    <li>Make their Git Repo <b>'Private'</b></li>
-    <li>Add Bhuvaneshwari Mam and Mydhili Mam as 'Collaborator'</li>
-    <li><b>PLEASE NOTE</b> Only THREE Collaborators are allowed for a Private Repo</li>
-    <li> This means in a team of three - decide beforehand, WHO is submitting the assignment</li> 
-    <li> This student's repo has to be Private with PB and MKN as Collaborators</li>
-    <li> From next assignment onwards, whoever has a similarity index will be penalized, unless there is a valid        explanation</li>
-  </ol>
+  
