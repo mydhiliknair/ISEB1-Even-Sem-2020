@@ -1,10 +1,13 @@
 <h2><u>Plagiarism Reports Explanation and NEXT STEPS</u></h2>
 <b>There are THREE Reports Generated</b>
 <ul>
-  <li>Consolidated Report .xls having all students seperated as individual sheets</li>
-  <li>Individual Report per student .xls</li>
+  <li>Consolidated Report 'ConsolidatedReport_Assignment_MLP.xls' having all students seperated as individual sheets</li>
+  <li>Individual Report per student saved with student name.xls</li>
   <li>Overall plagiarism similarity graph</li>
  </ul> 
+ <p><b>The Consolidated Report 'ConsolidatedReport_Assignment_MLP.xls' that you see,is depicting >=50% code similarity</b></p> 
+  <p><b>A sample of the Consolidated Report is given below</b></p>
+<img src = "PlagiarismGraphSample.png">
   <p><b>The overall GRAPH that you see, 'Plagiarism 50 Percent.png' is depicting >=50% code similarity</b></p> 
   <p><b>A sample of the plagiarism graph is given below</b></p>
 <img src = "PlagiarismGraphSample.png">
