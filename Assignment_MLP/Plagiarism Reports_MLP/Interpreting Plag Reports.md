@@ -23,9 +23,9 @@
     <li> This means that "Student A" has 50% or more similarity index with "Student B", "Student C" etc</li>
     <li>It DOESNOT indicate "who has copied from whom"</i>
     <li>Download your individual excel report from the folder "PlagiarismReports"</li>
-    
+    <li>The last column are URL that takes you to the source files where the similarity is colour coded and shown</li>
   </ol>
-<p> The last column are URL that takes you to the source files where the similarity is colour coded and shown<p>
+
   <br>
   <li>
     <p><b>The Code Similarity sample looks like this</b></p>
