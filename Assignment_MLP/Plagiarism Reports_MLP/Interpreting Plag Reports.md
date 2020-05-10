@@ -1,5 +1,11 @@
-<h2><u>Graph Plagiarism Reports Explanation and NEXT STEPS</u></h2>
-  <p><b>The overall graph that you see, 'Plagiarism 50 Percent.png' is depicting >=50% code similarity</b></p> 
+<h2><u>Plagiarism Reports Explanation and NEXT STEPS</u></h2>
+<b>There are THREE Reports Generated</b>
+<ul>
+  <li>Consolidated Report .xls having all students seperated as individual sheets</li>
+  <li>Individual Report per student .xls</li>
+  <li>Overall plagiarism similarity graph</li>
+ </ul> 
+  <p><b>The overall GRAPH that you see, 'Plagiarism 50 Percent.png' is depicting >=50% code similarity</b></p> 
   <p><b>A sample of the plagiarism graph is given below</b></p>
 <img src = "PlagiarismGraphSample.png">
   <p><b><u>Please NOTE the following:</b></u></p>
