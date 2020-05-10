@@ -19,7 +19,7 @@
   <p><b><u>Please NOTE the following:</b></u></p>
   <ol>
     <li>The Screenshot is a SAMPLE portion of the overall report('ConsolidatedReport_Assignment_MLP.xls')</li>
-    <li>It is used here to explain the interpretation.</li>
+    <li>It is used here to explain the interpretation.It is not meant to target the submissions of any student(s)</li>
     <li> This means that "Student A" has 50% or more similarity index with "Student B", "Student C" etc</li>
     <li>It DOESNOT indicate "who has copied from whom"</i>
     <li>Download your individual excel report from the folder "PlagiarismReports"</li>
@@ -34,7 +34,7 @@
    <p><b><u>Please NOTE the following:</b></u></p>
   <ol>
     <li>The Screenshot is a SAMPLE portion of code difference / similarity colour coded</li>
-    <li>It is used here to explain the interpretation.</li>
+    <li>It is used here to explain the interpretation.It is not meant to target the submissions of any student(s)</li>
     <li> Note that the variable, function name changes, adding white spaces etc will not make you escape plagiarism!!</li>
   </ol>
 <li>
@@ -46,7 +46,8 @@
   <p><b><u>Please NOTE the following:</b></u></p>
   <ol>
     <li>The above graph is a SAMPLE portion of the overall graph('Plagiarism 50 Percent.png')</li>
-    <li>It is used to explain the interpretation. Zoom and look at the overall graph for your plagiarism similarity</li>
+    <li>It is used to explain the interpretation. It is not meant to target the submissions of any student(s)</li>
+    <li>Zoom and look at the overall graph for your plagiarism similarity</li>
     <li> This is an "Undirected Graph"</li>
     <li> This means that "Student A" has 50% or more similarity index with "Student B", "Student C" etc</li>
     <li>It DOESNOT indicate "who has copied from whom"</i>
