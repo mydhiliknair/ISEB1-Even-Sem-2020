@@ -7,4 +7,5 @@
     <li> This means in a team of three - decide beforehand, WHO is submitting the assignment</li> 
     <li> This student's repo has to be Private with PB and MKN as Collaborators</li>
     <li> From next assignment onwards, whoever has a similarity index will be penalized, unless there is a valid        explanation</li>
+  <li><b>IMPORTANT:</b>Submission Deadline - 16/May/2020(Sat), 6.00pm</li>
   </ol>
