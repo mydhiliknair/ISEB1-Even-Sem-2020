@@ -6,7 +6,7 @@
     <li><b>PLEASE NOTE</b> Only THREE Collaborators are allowed for a Private Repo</li>
     <li> This means in a team of three - decide beforehand, WHO is submitting the assignment</li> 
     <li> This student's repo has to be Private with PB and MKN as Collaborators</li>
-  <br><p><b>IMPORTANT:</b>You need to do ONE out of the THREE Assignments Given</p>
+  <br><p><b>IMPORTANT:</b>You need to do Only <b>ONE out of the THREE</b> Assignments Given</p>
   <li>If you are assigned <b>SVM Q#1</b> you create a Directory under your "private" repo like this:</li>
     <li><pre><br>Assignment_SVM1
       <br>&nbsp;&nbsp; | ---- SVM_Question1.py <i>(You can name the file/s within the directory as per your wish)</i>
