@@ -1,4 +1,4 @@
-<b>STEPS TO BE FOLLOWED FROM NEXT ASSIGNMENT ONWARDS</b>
+<b>STEPS TO BE FOLLOWED FOR THIS ASSIGNMENT ONWARDS</b>
   <p>The student who is submitting the assignment has to</p>
   <ol>
     <li>Make their Git Repo <b>'Private'</b></li>
@@ -6,6 +6,7 @@
     <li><b>PLEASE NOTE</b> Only THREE Collaborators are allowed for a Private Repo</li>
     <li> This means in a team of three - decide beforehand, WHO is submitting the assignment</li> 
     <li> This student's repo has to be Private with PB and MKN as Collaborators</li>
-    <li> From next assignment onwards, whoever has a similarity index will be penalized, unless there is a valid        explanation</li>
+    <li> From this assignment onwards, whoever has a similarity index will be penalized, unless there is a valid        explanation</li>
+  <li>Late submission will also be penalized</li>
   <li><b>IMPORTANT:</b>Submission Deadline - 16/May/2020(Sat), 6.00pm</li>
   </ol>
