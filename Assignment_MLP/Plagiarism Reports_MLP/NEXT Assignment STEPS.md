@@ -9,8 +9,21 @@
     <li>If you are assigned SVM Q#1 you create a Directory under your "private" repo like this:</li>
     <li><pre><br>Assignment_SVM1
       <br>&nbsp;&nbsp; | ---- SVM_Question1.py <i>(You can name the file/s within the directory as per your wish)</i>
-      
-    <li> From this assignment onwards, whoever has a similarity index will be penalized, unless there is a valid        explanation</li>
+      </pre>
+    </li>
+    <li><b><u>To check plagiarism:<u></b> Ensure that all of the relevant code is present in each assignment folder as a single .py file
+      <br><i>Note that IPython notebooks can be saved as a single .py file</i>
+    </li>
+    <li><b><u>To check for technical correctness:<u></b>Additionally, submit one IPython Notebook within each assignment folder, having both the code as well as the outputs.</li>
+      <li>Basically, you have to submit ONE ".py" AND ".ipynb" of the given assignment</li>
+     <li> From this assignment onwards, whoever has a similarity index will be penalized, unless there is a valid        explanation</li>
+    
+    
+    
+    
+    
+    
+    
   <li>Late submission will also be penalized</li>
   <li><b>IMPORTANT:</b>Submission Deadline - 16/May/2020(Sat), 6.00pm</li>
   </ol>
