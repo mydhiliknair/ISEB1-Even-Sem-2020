@@ -6,9 +6,19 @@
     <li><b>PLEASE NOTE</b> Only THREE Collaborators are allowed for a Private Repo</li>
     <li> This means in a team of three - decide beforehand, WHO is submitting the assignment</li> 
     <li> This student's repo has to be Private with PB and MKN as Collaborators</li>
-    <li>If you are assigned SVM Q#1 you create a Directory under your "private" repo like this:</li>
+  <li>If you are assigned <b>SVM Q#1</b> you create a Directory under your "private" repo like this:</li>
     <li><pre><br>Assignment_SVM1
       <br>&nbsp;&nbsp; | ---- SVM_Question1.py <i>(You can name the file/s within the directory as per your wish)</i>
+      </pre>
+    </li>
+  <li>If you are assigned <b>SVM Q#2</b> you create a Directory under your "private" repo like this:</li>
+  <li><pre><br>Assignment_SVM2
+      <br>&nbsp;&nbsp; | ---- SVM_Question2.py <i>(You can name the file/s within the directory as per your wish)</i>
+      </pre>
+    </li>
+  <li>If you are assigned <b>SVM Q#3</b> you create a Directory under your "private" repo like this:</li>
+  <li><pre><br>Assignment_SVM3
+      <br>&nbsp;&nbsp; | ---- SVM_Question3.py <i>(You can name the file/s within the directory as per your wish)</i>
       </pre>
     </li>
     <li><b><u>To check plagiarism:<u></b> Ensure that all of the relevant code is present in each assignment folder as a single .py file
